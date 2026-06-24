@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: Ducky Note
+  name: Red Team Note
   tagline: |
     Ghi chú đơn giản với nhiều nội dung về AI, Web Design, Ecommerce, Tools, v.v...
   image:

@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: Ducky Note
+  name: Red Team Note
   tagline: |
     Simple note have multiple content about AI, Web Design, Ecommerce, Tools, etc...
   image:

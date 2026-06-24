@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 import sidebar from './sidebar.js'
 
 export default defineConfig({
-  title: "Ducky Note",
+  title: "Red Team Note",
   description: "Simple note have multiple content",
 
   head: [
@@ -52,8 +52,8 @@ export default defineConfig({
 
   themeConfig: {
     footer: {
-      message: 'Ducky Note',
-      copyright: `Copyright © ${new Date().getFullYear()} by Ducky in Black`
+      message: 'Red Team Note',
+      copyright: `Copyright © ${new Date().getFullYear()} by Red Team`
     }
   }
 })
