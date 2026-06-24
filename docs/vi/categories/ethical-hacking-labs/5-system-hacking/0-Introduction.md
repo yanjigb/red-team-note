@@ -1,0 +1,3 @@
+# Xâm nhập Hệ thống
+
+Xâm nhập hệ thống là khoa học kiểm thử máy tính và mạng để tìm lỗ hổng và các plug-in độc hại. Xâm nhập hệ thống là một chủ đề rộng lớn bao gồm việc xâm nhập các hệ thống công nghệ dựa trên phần mềm khác nhau như máy tính xách tay, máy tính để bàn, v.v. Xâm nhập hệ thống được định nghĩa là việc xâm phạm các hệ thống và phần mềm máy tính để giành quyền truy cập vào máy tính mục tiêu và đánh cắp hoặc lạm dụng thông tin nhạy cảm của chúng. Tại đây, hacker khai thác những điểm yếu trong hệ thống hoặc mạng máy tính để giành quyền truy cập trái phép vào dữ liệu hoặc thu lợi bất chính từ nó.
